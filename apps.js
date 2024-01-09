@@ -7,11 +7,11 @@
 // console.log(-8 / 0);// -Infinity
 // console.log("ROG" + 7);//NaN
 
-// let = {Bu o'zgarishga ega}
-// const ={Bu o'zgarishga ega emas}
-
 //String
 // const gamerName = "WoT Blitz Gamer";
+
+// let = {Bu o'zgarishga ega}
+// const ={Bu o'zgarishga ega emas}
 
 //Boolean
 // const arePlay = true or false;
@@ -29,6 +29,8 @@
 //     tall: 180;
 //     weight: 50;
 // };
+// console.log(thief.age)
+// console.log(thief["age"])
                         // FOYDALANOVCHI BILAN ODDIY MULOQOT
 
 // alert("gaming");
@@ -56,4 +58,4 @@
 // favouriteGame[0] = prompt("What's your favourite game #1 ?", "");
 // favouriteGame[1] = prompt("What's your favourite game #2 ?", "");
 // favouriteGame[2] = prompt("What's your favourite game #3 ?", "");
-// console.log(favouriteGame);             
+// console.log(favouriteGame);
